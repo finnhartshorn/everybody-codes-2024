@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 use itertools::Itertools;
 
 fn part1(data: &str) -> Option<u32> {
