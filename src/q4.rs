@@ -44,7 +44,10 @@ mod tests {
 
     #[test]
     fn test_part2() {
-        let result = part2("");
+        let result = part2("3
+4
+7
+8");
         assert_eq!(result, Some(10));
     }
 
